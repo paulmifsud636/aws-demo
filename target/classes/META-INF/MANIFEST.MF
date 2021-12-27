@@ -1,9 +1,6 @@
 Manifest-Version: 1.0
-Implementation-Title: demo-aws
-Implementation-Version: 0.0.1-SNAPSHOT
-Built-By: plmifsudgmail
-Implementation-Vendor-Id: com.example
-Build-Jdk: 1.8.0_252
-Implementation-URL: https://spring.io/projects/spring-boot/demo-aws
+Build-Jdk-Spec: 11
+Implementation-Title: controllerex
+Implementation-Version: 1.0-SNAPSHOT
 Created-By: Maven Integration for Eclipse
 
